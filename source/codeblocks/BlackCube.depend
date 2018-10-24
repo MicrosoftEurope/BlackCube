@@ -1,0 +1,1287 @@
+# depslib dependency file v1.0
+1539707456 source:c:\users\mazilu\documents\github\ac - copy\source\src\cube.h
+	"platform.h"
+	"tools.h"
+	"geom.h"
+	"model.h"
+	"protocol.h"
+	"sound.h"
+	"weapon.h"
+	"entity.h"
+	"world.h"
+	"command.h"
+	"varray.h"
+	"vote.h"
+	"console.h"
+	"protos.h"
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\platform.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<ctype.h>
+	<time.h>
+	<limits.h>
+	<math.h>
+	<stdint.h>
+	<new>
+	<signal.h>
+	<new.h>
+	<zlib.h>
+	<enet/enet.h>
+	"windows.h"
+	<tlhelp32.h>
+	<Dbghelp.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	"GL/glext.h"
+	"OpenAL/al.h"
+	"OpenAL/alc.h"
+	"Vorbis/vorbisfile.h"
+	"AL/al.h"
+	"AL/alc.h"
+	"vorbis/vorbisfile.h"
+	<setjmp.h>
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\zlib.h
+	"zconf.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1539707455 c:\users\mazilu\documents\github\ac - copy\source\enet\include\enet\enet.h
+	<stdlib.h>
+	"enet/win32.h"
+	"enet/unix.h"
+	"enet/types.h"
+	"enet/protocol.h"
+	"enet/list.h"
+	"enet/callbacks.h"
+
+1539707455 c:\users\mazilu\documents\github\ac - copy\source\enet\include\enet\win32.h
+	<stdlib.h>
+	<winsock2.h>
+
+1539707455 c:\users\mazilu\documents\github\ac - copy\source\enet\include\enet\unix.h
+	<stdlib.h>
+	<sys/time.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<unistd.h>
+
+1539707455 c:\users\mazilu\documents\github\ac - copy\source\enet\include\enet\types.h
+
+1539707455 c:\users\mazilu\documents\github\ac - copy\source\enet\include\enet\protocol.h
+	"enet/types.h"
+
+1539707455 c:\users\mazilu\documents\github\ac - copy\source\enet\include\enet\list.h
+	<stdlib.h>
+
+1539707455 c:\users\mazilu\documents\github\ac - copy\source\enet\include\enet\callbacks.h
+	<stdlib.h>
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_platform.h
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\begin_code.h
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\close_code.h
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_keysym.h
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\gl\glext.h
+	<windows.h>
+	<stddef.h>
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\vorbis\vorbisfile.h
+	<stdio.h>
+	"codec.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\vorbis\codec.h
+	<ogg/ogg.h>
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\ogg\ogg.h
+	<ogg/os_types.h>
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\ogg\os_types.h
+	<_G_config.h>
+	<sys/types.h>
+	<sys/types.h>
+	<inttypes.h>
+	<sys/types.h>
+	<ogg/config_types.h>
+
+1539707455 c:\users\mazilu\documents\github\ac - copy\source\include\al\al.h
+
+1539707455 c:\users\mazilu\documents\github\ac - copy\source\include\al\alc.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\tools.h
+	<iostream>
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\src\geom.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\model.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\protocol.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\sound.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\weapon.h
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\src\entity.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\world.h
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\src\command.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\varray.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\vote.h
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\src\console.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\protos.h
+
+1539707456 source:c:\users\mazilu\documents\github\ac - copy\source\src\audiomanager.cpp
+	"cube.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\src\cube.h
+	"platform.h"
+	"tools.h"
+	"geom.h"
+	"model.h"
+	"protocol.h"
+	"sound.h"
+	"weapon.h"
+	"entity.h"
+	"world.h"
+	"command.h"
+	"varray.h"
+	"vote.h"
+	"console.h"
+	"protos.h"
+
+1539707456 source:c:\users\mazilu\documents\github\ac - copy\source\src\autodownload.cpp
+	"cube.h"
+
+1539950009 source:c:\users\mazilu\documents\github\ac - copy\source\src\bot\ac_bot.cpp
+	"cube.h"
+	"bot.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\src\bot\bot.h
+	"bot_util.h"
+	"bot_waypoint.h"
+	"ac_bot.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\src\bot\bot_util.h
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\src\bot\bot_waypoint.h
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\src\bot\ac_bot.h
+
+1539950029 source:c:\users\mazilu\documents\github\ac - copy\source\src\bot\ac_bot_ai.cpp
+	"cube.h"
+	"bot.h"
+
+1539952650 source:c:\users\mazilu\documents\github\ac - copy\source\src\bot\bot.cpp
+	"cube.h"
+	"bot.h"
+
+1539953873 source:c:\users\mazilu\documents\github\ac - copy\source\src\bot\bot_ai.cpp
+	"cube.h"
+	"bot.h"
+
+1539958234 source:c:\users\mazilu\documents\github\ac - copy\source\src\bot\bot_util.cpp
+	"cube.h"
+	"bot.h"
+
+1539958491 source:c:\users\mazilu\documents\github\ac - copy\source\src\bot\bot_waypoint.cpp
+	"cube.h"
+	"bot.h"
+
+1539960141 source:c:\users\mazilu\documents\github\ac - copy\source\src\bot\botmanager.cpp
+	"cube.h"
+	"bot.h"
+
+1539707456 source:c:\users\mazilu\documents\github\ac - copy\source\src\client.cpp
+	"cube.h"
+	"bot/bot.h"
+
+1539707456 source:c:\users\mazilu\documents\github\ac - copy\source\src\clientgame.cpp
+	"cube.h"
+	"bot/bot.h"
+
+1539707456 source:c:\users\mazilu\documents\github\ac - copy\source\src\clients2c.cpp
+	"cube.h"
+	"bot/bot.h"
+
+1539707456 source:c:\users\mazilu\documents\github\ac - copy\source\src\command.cpp
+	"cube.h"
+
+1539707456 source:c:\users\mazilu\documents\github\ac - copy\source\src\console.cpp
+	"cube.h"
+	<X11/Xlib.h>
+	<SDL_syswm.h>
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\include\sdl_syswm.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_version.h"
+	"begin_code.h"
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<microwin/nano-X.h>
+	<windows.h>
+	<sys/neutrino.h>
+	<Ph.h>
+	"close_code.h"
+
+1540134496 source:c:\users\mazilu\documents\github\ac - copy\source\src\crypto.cpp
+	"cube.h"
+	"crypto_tools.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\src\crypto_tools.h
+	"ge25519_base.data"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\src\ge25519_base.data
+
+1539707456 source:c:\users\mazilu\documents\github\ac - copy\source\src\docs.cpp
+	"cube.h"
+
+1539707456 source:c:\users\mazilu\documents\github\ac - copy\source\src\editing.cpp
+	"cube.h"
+
+1539707456 source:c:\users\mazilu\documents\github\ac - copy\source\src\entities.cpp
+	"cube.h"
+
+1539707456 source:c:\users\mazilu\documents\github\ac - copy\source\src\http.cpp
+	"cube.h"
+	<errno.h>
+
+1539707456 source:c:\users\mazilu\documents\github\ac - copy\source\src\log.cpp
+	"cube.h"
+	<syslog.h>
+	<signal.h>
+
+1540138389 source:c:\users\mazilu\documents\github\ac - copy\source\src\main.cpp
+	"cube.h"
+	"jpegenc.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\src\jpegenc.h
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\menus.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\oggstream.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\openal.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\packetqueue.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\physics.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\protocol.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\rendercubes.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\rendergl.cpp
+	"cube.h"
+	"bot/bot.h"
+	"varray.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\renderhud.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\rendermodel.cpp
+	"cube.h"
+	"tristrip.h"
+	"modelcache.h"
+	"vertmodel.h"
+	"md2.h"
+	"md3.h"
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\tristrip.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\modelcache.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\vertmodel.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\md2.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\md3.h
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\renderparticles.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\rendertext.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\rndmap.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\scoreboard.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\server.cpp
+	"cube.h"
+	"server.h"
+	"servercontroller.h"
+	"serverfiles.h"
+	"signal.h"
+	"serverchecks.h"
+	"serverevents.h"
+	"serveractions.h"
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\server.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\servercontroller.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\serverfiles.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\serverchecks.h
+	"anticheat.h"
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\serverevents.h
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\serveractions.h
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\serverbrowser.cpp
+	"cube.h"
+	"SDL_thread.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\serverms.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\shadow.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\soundlocation.cpp
+	"cube.h"
+
+1540142750 source:c:\users\mazilu\documents\github\ac - copy\source\src\soundscheduler.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\stream.cpp
+	"cube.h"
+	<unistd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/statvfs.h>
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\texture.cpp
+	"cube.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\scale.h
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\tools.cpp
+	"cube.h"
+	<execinfo.h>
+	"SDL_timer.h"
+	"SDL_thread.h"
+	<pthread.h>
+	<semaphore.h>
+	<sys/shm.h>
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\water.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\weapon.cpp
+	"cube.h"
+	"bot/bot.h"
+	"hudgun.h"
+
+1539707456 c:\users\mazilu\documents\github\ac - copy\source\src\hudgun.h
+
+1540143227 source:c:\users\mazilu\documents\github\ac - copy\source\src\wizard.cpp
+	"cube.h"
+	<direct.h>
+	"winserviceinstaller.h"
+	<sys/types.h>
+	<sys/stat.h>
+
+1539707457 c:\users\mazilu\documents\github\ac - copy\source\src\winserviceinstaller.h
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\world.cpp
+	"cube.h"
+	"bot/bot.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\worldio.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\ac - copy\source\src\worldlight.cpp
+	"cube.h"
+
+1539707458 source:c:\users\mazilu\documents\github\ac - copy\source\src\worldocull.cpp
+	"cube.h"
+
+1539707458 source:c:\users\mazilu\documents\github\ac - copy\source\src\worldrender.cpp
+	"cube.h"
+
+1540143829 source:c:\users\mazilu\documents\github\ac - copy\source\src\zip.cpp
+	"cube.h"
+
+1539707458 source:c:\users\mazilu\documents\github\ac - copy\source\vcpp\assaultcube.rc
+	"winresrc.h"
+
+1539707456 source:c:\users\mazilu\documents\github\blackcube\source\src\cube.h
+	"platform.h"
+	"tools.h"
+	"geom.h"
+	"model.h"
+	"protocol.h"
+	"sound.h"
+	"weapon.h"
+	"entity.h"
+	"world.h"
+	"command.h"
+	"varray.h"
+	"vote.h"
+	"console.h"
+	"protos.h"
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\platform.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<ctype.h>
+	<time.h>
+	<limits.h>
+	<math.h>
+	<stdint.h>
+	<new>
+	<signal.h>
+	<new.h>
+	<zlib.h>
+	<enet/enet.h>
+	"windows.h"
+	<tlhelp32.h>
+	<Dbghelp.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	"GL/glext.h"
+	"OpenAL/al.h"
+	"OpenAL/alc.h"
+	"Vorbis/vorbisfile.h"
+	"AL/al.h"
+	"AL/alc.h"
+	"vorbis/vorbisfile.h"
+	<setjmp.h>
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\zlib.h
+	"zconf.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1539707455 c:\users\mazilu\documents\github\blackcube\source\enet\include\enet\enet.h
+	<stdlib.h>
+	"enet/win32.h"
+	"enet/unix.h"
+	"enet/types.h"
+	"enet/protocol.h"
+	"enet/list.h"
+	"enet/callbacks.h"
+
+1539707455 c:\users\mazilu\documents\github\blackcube\source\enet\include\enet\win32.h
+	<stdlib.h>
+	<winsock2.h>
+
+1539707455 c:\users\mazilu\documents\github\blackcube\source\enet\include\enet\unix.h
+	<stdlib.h>
+	<sys/time.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<unistd.h>
+
+1539707455 c:\users\mazilu\documents\github\blackcube\source\enet\include\enet\types.h
+
+1539707455 c:\users\mazilu\documents\github\blackcube\source\enet\include\enet\protocol.h
+	"enet/types.h"
+
+1539707455 c:\users\mazilu\documents\github\blackcube\source\enet\include\enet\list.h
+	<stdlib.h>
+
+1539707455 c:\users\mazilu\documents\github\blackcube\source\enet\include\enet\callbacks.h
+	<stdlib.h>
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_platform.h
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\begin_code.h
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\close_code.h
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_keysym.h
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\gl\glext.h
+	<windows.h>
+	<stddef.h>
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\vorbis\vorbisfile.h
+	<stdio.h>
+	"codec.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\vorbis\codec.h
+	<ogg/ogg.h>
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\ogg\ogg.h
+	<ogg/os_types.h>
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\ogg\os_types.h
+	<_G_config.h>
+	<sys/types.h>
+	<sys/types.h>
+	<inttypes.h>
+	<sys/types.h>
+	<ogg/config_types.h>
+
+1539707455 c:\users\mazilu\documents\github\blackcube\source\include\al\al.h
+
+1539707455 c:\users\mazilu\documents\github\blackcube\source\include\al\alc.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\tools.h
+	<iostream>
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\src\geom.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\model.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\protocol.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\sound.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\weapon.h
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\src\entity.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\world.h
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\src\command.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\varray.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\vote.h
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\src\console.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\protos.h
+
+1539707456 source:c:\users\mazilu\documents\github\blackcube\source\src\audiomanager.cpp
+	"cube.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\src\cube.h
+	"platform.h"
+	"tools.h"
+	"geom.h"
+	"model.h"
+	"protocol.h"
+	"sound.h"
+	"weapon.h"
+	"entity.h"
+	"world.h"
+	"command.h"
+	"varray.h"
+	"vote.h"
+	"console.h"
+	"protos.h"
+
+1539707456 source:c:\users\mazilu\documents\github\blackcube\source\src\autodownload.cpp
+	"cube.h"
+
+1539950009 source:c:\users\mazilu\documents\github\blackcube\source\src\bot\ac_bot.cpp
+	"cube.h"
+	"bot.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\src\bot\bot.h
+	"bot_util.h"
+	"bot_waypoint.h"
+	"ac_bot.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\src\bot\bot_util.h
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\src\bot\bot_waypoint.h
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\src\bot\ac_bot.h
+
+1539950029 source:c:\users\mazilu\documents\github\blackcube\source\src\bot\ac_bot_ai.cpp
+	"cube.h"
+	"bot.h"
+
+1539952650 source:c:\users\mazilu\documents\github\blackcube\source\src\bot\bot.cpp
+	"cube.h"
+	"bot.h"
+
+1539953873 source:c:\users\mazilu\documents\github\blackcube\source\src\bot\bot_ai.cpp
+	"cube.h"
+	"bot.h"
+
+1539958234 source:c:\users\mazilu\documents\github\blackcube\source\src\bot\bot_util.cpp
+	"cube.h"
+	"bot.h"
+
+1539958491 source:c:\users\mazilu\documents\github\blackcube\source\src\bot\bot_waypoint.cpp
+	"cube.h"
+	"bot.h"
+
+1539960141 source:c:\users\mazilu\documents\github\blackcube\source\src\bot\botmanager.cpp
+	"cube.h"
+	"bot.h"
+
+1539707456 source:c:\users\mazilu\documents\github\blackcube\source\src\client.cpp
+	"cube.h"
+	"bot/bot.h"
+
+1539707456 source:c:\users\mazilu\documents\github\blackcube\source\src\clientgame.cpp
+	"cube.h"
+	"bot/bot.h"
+
+1539707456 source:c:\users\mazilu\documents\github\blackcube\source\src\clients2c.cpp
+	"cube.h"
+	"bot/bot.h"
+
+1539707456 source:c:\users\mazilu\documents\github\blackcube\source\src\command.cpp
+	"cube.h"
+
+1539707456 source:c:\users\mazilu\documents\github\blackcube\source\src\console.cpp
+	"cube.h"
+	<X11/Xlib.h>
+	<SDL_syswm.h>
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\include\sdl_syswm.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_version.h"
+	"begin_code.h"
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<microwin/nano-X.h>
+	<windows.h>
+	<sys/neutrino.h>
+	<Ph.h>
+	"close_code.h"
+
+1540134496 source:c:\users\mazilu\documents\github\blackcube\source\src\crypto.cpp
+	"cube.h"
+	"crypto_tools.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\src\crypto_tools.h
+	"ge25519_base.data"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\src\ge25519_base.data
+
+1539707456 source:c:\users\mazilu\documents\github\blackcube\source\src\docs.cpp
+	"cube.h"
+
+1539707456 source:c:\users\mazilu\documents\github\blackcube\source\src\editing.cpp
+	"cube.h"
+
+1539707456 source:c:\users\mazilu\documents\github\blackcube\source\src\entities.cpp
+	"cube.h"
+
+1539707456 source:c:\users\mazilu\documents\github\blackcube\source\src\http.cpp
+	"cube.h"
+	<errno.h>
+
+1539707456 source:c:\users\mazilu\documents\github\blackcube\source\src\log.cpp
+	"cube.h"
+	<syslog.h>
+	<signal.h>
+
+1540138389 source:c:\users\mazilu\documents\github\blackcube\source\src\main.cpp
+	"cube.h"
+	"jpegenc.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\src\jpegenc.h
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\menus.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\oggstream.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\openal.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\packetqueue.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\physics.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\protocol.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\rendercubes.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\rendergl.cpp
+	"cube.h"
+	"bot/bot.h"
+	"varray.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\renderhud.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\rendermodel.cpp
+	"cube.h"
+	"tristrip.h"
+	"modelcache.h"
+	"vertmodel.h"
+	"md2.h"
+	"md3.h"
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\tristrip.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\modelcache.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\vertmodel.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\md2.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\md3.h
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\renderparticles.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\rendertext.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\rndmap.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\scoreboard.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\server.cpp
+	"cube.h"
+	"server.h"
+	"servercontroller.h"
+	"serverfiles.h"
+	"signal.h"
+	"serverchecks.h"
+	"serverevents.h"
+	"serveractions.h"
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\server.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\servercontroller.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\serverfiles.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\serverchecks.h
+	"anticheat.h"
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\serverevents.h
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\serveractions.h
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\serverbrowser.cpp
+	"cube.h"
+	"SDL_thread.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\serverms.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\shadow.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\soundlocation.cpp
+	"cube.h"
+
+1540142750 source:c:\users\mazilu\documents\github\blackcube\source\src\soundscheduler.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\stream.cpp
+	"cube.h"
+	<unistd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/statvfs.h>
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\texture.cpp
+	"cube.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+	"scale.h"
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\scale.h
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\tools.cpp
+	"cube.h"
+	<execinfo.h>
+	"SDL_timer.h"
+	"SDL_thread.h"
+	<pthread.h>
+	<semaphore.h>
+	<sys/shm.h>
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\water.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\weapon.cpp
+	"cube.h"
+	"bot/bot.h"
+	"hudgun.h"
+
+1539707456 c:\users\mazilu\documents\github\blackcube\source\src\hudgun.h
+
+1540143227 source:c:\users\mazilu\documents\github\blackcube\source\src\wizard.cpp
+	"cube.h"
+	<direct.h>
+	"winserviceinstaller.h"
+	<sys/types.h>
+	<sys/stat.h>
+
+1539707457 c:\users\mazilu\documents\github\blackcube\source\src\winserviceinstaller.h
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\world.cpp
+	"cube.h"
+	"bot/bot.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\worldio.cpp
+	"cube.h"
+
+1539707457 source:c:\users\mazilu\documents\github\blackcube\source\src\worldlight.cpp
+	"cube.h"
+
+1539707458 source:c:\users\mazilu\documents\github\blackcube\source\src\worldocull.cpp
+	"cube.h"
+
+1539707458 source:c:\users\mazilu\documents\github\blackcube\source\src\worldrender.cpp
+	"cube.h"
+
+1540143829 source:c:\users\mazilu\documents\github\blackcube\source\src\zip.cpp
+	"cube.h"
+
+1539707458 source:c:\users\mazilu\documents\github\blackcube\source\vcpp\assaultcube.rc
+	"winresrc.h"
+
